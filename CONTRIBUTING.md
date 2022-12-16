@@ -13,6 +13,6 @@ Rule of thumb:
 
 - Make sure you run tests by running `make test-all` locally to see there is any issue
 - Review all the checks on your PR and review code coverage report
-- Assign reviewers from code owners (@dongsam @kogisin @hallazzang)
+- Assign reviewers from code owners (@dongsam @kogisin @hallazzang @johnmichael746)
 
-Thank you for your contribution!
+Thank you for your contribution.
