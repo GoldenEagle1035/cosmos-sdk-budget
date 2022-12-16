@@ -16,7 +16,7 @@ See the [main](https://github.com/tendermint/budget/tree/main) branch for the la
 If you haven't already, install Golang by following the [official docs](https://golang.org/doc/install). Make sure that your `GOPATH` and `GOBIN` environment variables are properly set up.
 
 Requirement | Notes
------------ | -----------------
+----------- | --------------------
 Go version  | Go1.17 or higher
 Cosmos SDK  | v0.45.3 or higher
 
